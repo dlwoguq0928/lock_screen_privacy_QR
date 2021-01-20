@@ -1,0 +1,2 @@
+rootProject.name='Android Lock Screen 2'
+include ':app'
